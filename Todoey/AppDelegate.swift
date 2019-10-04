@@ -34,15 +34,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
   }
   
   func applicationWillResignActive(_ application: UIApplication) {
-    //
   }
   
   func applicationDidEnterBackground(_ application: UIApplication) {
-    //
   }
 
   func applicationWillTerminate(_ application: UIApplication) {
-    print("applicationWillTerminate")
   }
 
 }
